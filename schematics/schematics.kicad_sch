@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 93835863-cf60-4a02-812d-6389a7b10ab4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 189.23 43.18) (size 17.78 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c4e54a89-3165-4c21-b64b-58c811c07c47)
+    (property "Sheetname" "A_Register" (at 189.23 42.4684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "A_Register.kicad_sch" (at 189.23 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "schematics"
+        (path "/93835863-cf60-4a02-812d-6389a7b10ab4" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
