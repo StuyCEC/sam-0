@@ -330,6 +330,14 @@
     [
       "c4e54a89-3165-4c21-b64b-58c811c07c47",
       "A_Register"
+    ],
+    [
+      "7969813c-6c87-4c03-9caa-bc8f0ce42d6a",
+      "RAM"
+    ],
+    [
+      "150a14be-b688-4129-855c-05cf87a269ae",
+      "ALU"
     ]
   ],
   "text_variables": {}

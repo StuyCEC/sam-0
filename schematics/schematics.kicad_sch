@@ -8,6 +8,40 @@
   )
 
 
+  (sheet (at 113.03 67.31) (size 36.83 41.91) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 150a14be-b688-4129-855c-05cf87a269ae)
+    (property "Sheetname" "ALU" (at 113.03 66.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ALU.kicad_sch" (at 113.03 109.8046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "schematics"
+        (path "/93835863-cf60-4a02-812d-6389a7b10ab4" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 187.96 76.2) (size 17.78 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7969813c-6c87-4c03-9caa-bc8f0ce42d6a)
+    (property "Sheetname" "RAM" (at 187.96 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RAM.kicad_sch" (at 187.96 105.9946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "schematics"
+        (path "/93835863-cf60-4a02-812d-6389a7b10ab4" (page "3"))
+      )
+    )
+  )
+
   (sheet (at 189.23 43.18) (size 17.78 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
